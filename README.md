@@ -2,7 +2,7 @@
 - 👀 I’m interested in Autodesk Inventor Automation with VB.net
 - 🌱 I’m currently learning VB.net
 - 💞️ I’m not looking to collaborate at the moment
-- 📫 How to reach me at msevero@silent-aire.eu
+- 📫 To reach me, send an email: msevero@silent-aire.eu
 
 <!---
 mmsevero/mmsevero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
